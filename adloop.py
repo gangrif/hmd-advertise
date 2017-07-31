@@ -2,7 +2,7 @@
 import requests, urllib, random
 from time import sleep
 urlbase = 'http://oled:5002'
-sleepTime = 300
+sleepTime = 30
 twitter = '@hackthederby'
 
 
